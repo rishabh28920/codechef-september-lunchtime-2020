@@ -4,7 +4,7 @@ using namespace std;
 #define send {ios_base::sync_with_stdio(false);}
 #define help {cin.tie(NULL); cout.tie(NULL);}
 #define MAX 1000000007
-typedef long long int ll;
+typedef long int ll;
 
 void solve()
 {
